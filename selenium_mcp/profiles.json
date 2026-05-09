@@ -1,0 +1,11 @@
+[
+    {
+        "id": "default",
+        "name": "Default Headless",
+        "headless": true,
+        "disable_images": true,
+        "user_data_dir": null,
+        "user_agent": null,
+        "proxy": null
+    }
+]
